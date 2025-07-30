@@ -1,0 +1,5 @@
+selenium>=4.19.0
+customtkinter>=5.2.0
+requests>=2.31.0
+colorama>=0.4.6
+pyinstaller>=6.5.0

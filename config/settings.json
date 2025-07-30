@@ -1,0 +1,11 @@
+{
+  "default_platform": "YouTube",
+  "default_action": "view",
+  "video_url": "",
+  "proxy_file": "config/proxies.txt",
+  "log_file": "logs/vidbot.log",
+  "delay_range": [60, 80],
+  "max_threads": 5,
+  "headless_mode": true,
+  "views_per_proxy": 2
+}
