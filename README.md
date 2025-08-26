@@ -74,5 +74,3 @@ This tool is intended for **research and educational purposes only**. Use it res
 ---
 
 **Developed by Burak for automation testing demonstrations.**
-
-```
